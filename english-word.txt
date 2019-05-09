@@ -1,0 +1,1 @@
+async              美 /æˈsɪŋk/               abbr. 异步，非同步（asynchronous）
