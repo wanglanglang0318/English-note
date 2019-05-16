@@ -1,1 +1,4 @@
-async              美 /æˈsɪŋk/               abbr. 异步，非同步（asynchronous）
+﻿1> async              美 /æˈsɪŋk/               abbr. 异步，非同步（asynchronous）
+
+2> axis			美 /'æksɪs/ 	       轴线
+
