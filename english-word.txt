@@ -1,4 +1,4 @@
-﻿1> async              美 /æˈsɪŋk/               abbr. 异步，非同步（asynchronous）
+﻿1> async     美 /æˈsɪŋk/               abbr. 异步，非同步（asynchronous）
 
 2> axis			美 /'æksɪs/ 	       轴线
 
@@ -6,3 +6,12 @@
 
 4> derective  美 /dɪrekˈtiv; dəˈrɛktɪv; daɪˈrɛktɪv/  n. 指示；指令adj. 指导的；管理的
 
+5> protocol  美 /'protə'kɔl/  n 协议、 v 拟定
+
+6> sckeme 美 /skim/  n. 计划；组合；体制；诡计 vt. 计划；策划
+
+7> initiator  美 /ɪ'nɪʃɪetɚ/  n. 发起人，创始者；教导者；[计] 启动程序；引爆器
+
+8> priority  美 /praɪ'ɔrəti/ n. 优先；优先权；[数] 优先次序；优先考虑的事
+
+9> performance 美 /pɚ'fɔrməns/  n. 性能；绩效；表演；执行；表现
